@@ -891,7 +891,7 @@ config SARSENSOR_SX9325
 	  to your system.If unsure, say N.
 
 source "drivers/misc/c2port/Kconfig"
-source "drivers/misc/awinic/Kconfig"
+#source "drivers/misc/awinic/Kconfig"
 source "drivers/misc/eeprom/Kconfig"
 source "drivers/misc/cb710/Kconfig"
 source "drivers/misc/ti-st/Kconfig"
